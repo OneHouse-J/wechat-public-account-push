@@ -64,7 +64,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "o-YkX6l6ODh4o94eytQa5ewWLgF8",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "p41-4fGWlrLpqTPlgU2BmomzzhbXgr9_tFh9sOBRU6Q",
+      useTemplateId: "v8iBYlsrNuAq-7z1lBsxZmQigAOW_Gu1i73uPA4TYeY",
       // 所在省份
       province: "福建",
       // 所在城市
@@ -97,10 +97,10 @@ export const config = {
     /**
     *{
     *  name: "老公",
-    *  id: "o-YkX6l6ODh4o94eytQa5ewWLgF8",
-    *  useTemplateId: "p41-4fGWlrLpqTPlgU2BmomzzhbXgr9_tFh9sOBRU6Q",
-    *  province: "福建",
-    *  city: "福州",
+    *  id: "",
+    *  useTemplateId: "",
+    *  province: "",
+    *  city: "",
     *  horoscopeDate: '',
     *  horoscopeDateType: '',
     *  openUrl: "www.baidu.com",
